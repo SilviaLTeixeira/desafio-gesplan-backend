@@ -1,0 +1,2 @@
+insert into contatos(nome, sobrenome, email, observacao) VALUES ('silvia','teixeira','quimicasilvia20@gmail.com','candidata do processo');
+insert into contatos(nome, sobrenome, email) VALUES ('lucas','bueno','lucasbueno@gmail.com');
